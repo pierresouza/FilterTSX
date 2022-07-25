@@ -42,6 +42,7 @@ export const Filter = () => {
             <option value="moto">moto</option>
             <option value="carro">carro</option>
           </select>
+          //TODO descobrir como passar um boolean no campo valor
           {/* o select acima é o primeiro select e realiza a filtragem
           dos itens pelo valor de seus nomes
           */}
